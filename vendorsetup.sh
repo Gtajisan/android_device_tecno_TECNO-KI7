@@ -7,4 +7,4 @@
 
 add_lunch_combo twrp_TECNO-KI7-user
 add_lunch_combo twrp_TECNO-KI7-userdebug
-add_lunch_combo twrp_TECNO-KI7--eng
+add_lunch_combo twrp_TECNO-KI7-eng
